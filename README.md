@@ -5,6 +5,7 @@
 ## Geoff
 
 ```
+git submodule update --init --recursive # initialize submodules
 python3 -m venv myenv
 source myenv/bin/activate
 pip install tensorflow-macos
