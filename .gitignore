@@ -211,6 +211,5 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,python,jupyternotebooks
 
-.DS_Store
-
+**/.DS_Store
 myenv
